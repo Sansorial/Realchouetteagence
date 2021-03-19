@@ -231,7 +231,7 @@ a:hover {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-    color: rgba(0, 0, 0, .6);
+    color: rgb(66, 66, 66);
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -249,7 +249,7 @@ a:hover {
 .l-bloc h5 a:hover,
 .l-bloc h6 a:hover,
 .l-bloc p a:hover {
-    color: rgba(0, 0, 0, 1);
+    color: rgb(255, 255, 255);
 }
 
 .l-bloc .navbar-toggle .icon-bar {
@@ -676,7 +676,8 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
+    color:#585858;
 }
 
 .tight-width-whitespace {
@@ -706,8 +707,8 @@ p {
 
 h2 {
     font-size: 22px;
-    line-height: 1.4em;
-    color: #F3976C;
+    line-height: 1.5em;
+    color: #CB4B10;
 }
 
 h3 {
@@ -793,11 +794,11 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #424242!important;
+    color: #222222!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #424242!important;
+    background: #222222!important;
     color: #F3976C!important;
 }
 
